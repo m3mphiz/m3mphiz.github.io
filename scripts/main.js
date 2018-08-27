@@ -8,7 +8,7 @@ myImage.onclick = function() {
       myImage.setAttribute ('src','images/1.jpg');
     }
 }
-
+/*
 //Ввод имени
 var myButton = document.querySelector('button');
 var myHeading = document.querySelector('h1');
@@ -26,3 +26,4 @@ if(!localStorage.getItem('name')) {
 myButton.onclick = function() {
   setUserName();
 }
+*/
